@@ -29,8 +29,3 @@ La importancia de esta configuración radica en:
 * **Procesadores:** Intel Core i5 / Ryzen 5 (Servidor) e Intel Core i3 / Ryzen 3 (Clientes).
 * **Memoria:** 16GB RAM (Servidor) / 8GB RAM (Clientes).
 * **Red:** Conectividad Ethernet Gigabit para mínima latencia.
-
----
-**Autor:** [Tu Nombre]
-**Módulo:** Fundamentos de Hardware (0371)
-**Proyecto:** Proyecto Intermodular - PROMETΞΟ
